@@ -2,7 +2,7 @@
 
 - 🔭 Hoje estou estudando o front-end
 - 💬 Fazendo faculdade de Ciencia da computação em Brasília
-- 😄 A faculdade em que faço meu ensino superior é o  UNICEUB 
+- 😄 A instituição que faço ensino superior é o  UNICEUB 
 
 <div align="center">
   <a href="https://github.com/Bernardo2801">
