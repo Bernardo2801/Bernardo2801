@@ -1,8 +1,7 @@
 ## Opa, tranquilo? Atendo por Bernardo.
 
-- 🔭 Atualmente estou estudando o front-end;
-- 💬 Fazendo faculdade de Ciencia da computação em Brasília;
-- 😄 A instituição que faço ensino superior é o  UNICEUB.
+- 💬 Fazendo faculdade de Ciência da Computação em Brasília;
+- 😄 A instituição que faço meu Ensino Superior é no UNICEUB.
 
 
 <div style="display: inline_block"><br>
