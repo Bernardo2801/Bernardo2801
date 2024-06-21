@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Bernardo Alves and i'm Full-Stack Developer, from RJ, Brazil ʙʀ</p>
+<p align="center">My name is Bernardo Alves and i'm Full-Stack Developer, from Brasília, Brazil ʙʀ</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">test</p>
+<p align="center">I'm currently a 6th-semester Computer Science student at UNICEUB, where I am honing my skills in software development, algorithms, and systems design. Passionate about technology, I am always eager to learn new programming languages and frameworks.</p>
 
 ###
 
@@ -41,9 +41,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bernardo2801&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false&order=1" height="125" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bernardo2801&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&order=2" height="125" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bernardo2801&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="280" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=bernardo2801&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bernardo2801&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bernardo2801&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
