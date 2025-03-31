@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Bernardo Alves and i'm Full-Stack Developer, from Brasília, Brazil ʙʀ</p>
+<p align="center">My name is Bernardo Alves and i'm Developer, from Brasília, Brazil ʙʀ</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">I'm currently a 6th-semester Computer Science student at UNICEUB, where I am honing my skills in software development, algorithms, and systems design. Passionate about technology, I am always eager to learn new programming languages and frameworks.</p>
+<p align="center">I'm currently a 7th-semester Computer Science student at UNICEUB, where I am honing my skills in software development, algorithms, and systems design. Passionate about technology, I am always eager to learn new programming languages and frameworks.</p>
 
 ###
 
